@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16" pages="4">
   <diagram name="基础分工" id="ZhmZTOrXltv5evSr5LJi">
-    <mxGraphModel dx="381" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
+    <mxGraphModel dx="597" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,16 +41,16 @@
           <mxGeometry y="60" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JS6jaBsfg6c_3Kujoha7-1" value="主要" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="372" width="420" height="164" as="geometry" />
+          <mxGeometry x="590" y="372" width="520" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="JS6jaBsfg6c_3Kujoha7-2" value="1.策划先将底列3个场景的关卡设计概念图设计完成&lt;div&gt;2.开发按照设计概念图搭建基础白盒&lt;/div&gt;&lt;div&gt;3.&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JS6jaBsfg6c_3Kujoha7-1">
-          <mxGeometry y="26" width="420" height="104" as="geometry" />
+        <mxCell id="JS6jaBsfg6c_3Kujoha7-2" value="1.策划先将底列3个场景的关卡设计概念图设计完成&lt;div&gt;&lt;br&gt;&lt;div&gt;2.开发按照设计概念图搭建基础白盒,同步开发概念设计图中的可交互物品功能&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.美术 根据白盒美化场景 同时提交可交互物体的具体模型供开发完成功能&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JS6jaBsfg6c_3Kujoha7-1">
+          <mxGeometry y="26" width="520" height="104" as="geometry" />
         </mxCell>
         <mxCell id="JS6jaBsfg6c_3Kujoha7-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="JS6jaBsfg6c_3Kujoha7-1">
-          <mxGeometry y="130" width="420" height="8" as="geometry" />
+          <mxGeometry y="130" width="520" height="8" as="geometry" />
         </mxCell>
         <mxCell id="JS6jaBsfg6c_3Kujoha7-4" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="JS6jaBsfg6c_3Kujoha7-1">
-          <mxGeometry y="138" width="420" height="26" as="geometry" />
+          <mxGeometry y="138" width="520" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
