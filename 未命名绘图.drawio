@@ -111,7 +111,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3mCCD-SJEriU7OzPLCNf-1" value="接口清单:详见脚本&amp;lt;&amp;lt;interfaces&amp;gt;&amp;gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="400" width="250" height="256" as="geometry" />
+          <mxGeometry x="540" y="400" width="250" height="256" as="geometry" />
         </mxCell>
         <mxCell id="3mCCD-SJEriU7OzPLCNf-2" value="IMover : 可移动物体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="3mCCD-SJEriU7OzPLCNf-1">
           <mxGeometry y="26" width="250" height="26" as="geometry" />
@@ -150,6 +150,48 @@
           <mxGeometry y="222" width="250" height="8" as="geometry" />
         </mxCell>
         <mxCell id="3mCCD-SJEriU7OzPLCNf-16" value="IKiller :可杀死生命体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="3mCCD-SJEriU7OzPLCNf-1">
+          <mxGeometry y="230" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-1" value="接口清单:详见脚本&amp;lt;&amp;lt;interfaces&amp;gt;&amp;gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="400" width="250" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-2" value="IMover : 可移动物体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
+          <mxGeometry y="26" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
+          <mxGeometry y="52" width="250" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-4" value="Iinteract&amp;nbsp; :可被交互物体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
+          <mxGeometry y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
+          <mxGeometry y="86" width="250" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-6" value="IPlayerController&amp;nbsp; : 可被玩家控制接口" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
+          <mxGeometry y="94" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
+          <mxGeometry y="120" width="250" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-8" value="ITheWorld&amp;nbsp; : 可被暂停物体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
+          <mxGeometry y="128" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
+          <mxGeometry y="154" width="250" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-10" value="ITimeMove&amp;nbsp; : 可被时间流逝控制物体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
+          <mxGeometry y="162" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
+          <mxGeometry y="188" width="250" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-12" value="ILiver&amp;nbsp; : 生命体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
+          <mxGeometry y="196" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-13" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
+          <mxGeometry y="222" width="250" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jbMT0nAhMHHpYHSdmw2S-14" value="IKiller :可杀死生命体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jbMT0nAhMHHpYHSdmw2S-1">
           <mxGeometry y="230" width="250" height="26" as="geometry" />
         </mxCell>
       </root>
