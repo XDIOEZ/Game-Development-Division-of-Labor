@@ -131,7 +131,7 @@
         <mxCell id="3mCCD-SJEriU7OzPLCNf-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="3mCCD-SJEriU7OzPLCNf-1">
           <mxGeometry y="52" width="250" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="3mCCD-SJEriU7OzPLCNf-4" value="Iinteract : 发出交互行为的物体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="3mCCD-SJEriU7OzPLCNf-1">
+        <mxCell id="3mCCD-SJEriU7OzPLCNf-4" value="IInteract : 发出交互行为的物体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="3mCCD-SJEriU7OzPLCNf-1">
           <mxGeometry y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3mCCD-SJEriU7OzPLCNf-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="3mCCD-SJEriU7OzPLCNf-1">
